@@ -1,0 +1,20 @@
+<svg width="80" height="80" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>btn-up</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-446 -1414)">
+<g id="btn-up">
+<g id="Rectangle 4">
+<use xlink:href="#path0_fill" transform="translate(446 1414)" fill="#59BD5A"/>
+</g>
+<g id="arrow">
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(478.4 1441.01)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 2C 0 0.895431 0.895431 0 2 0L 78 0C 79.1046 0 80 0.895431 80 2L 80 78C 80 79.1046 79.1046 80 78 80L 2 80C 0.895431 80 0 79.1046 0 78L 0 2Z"/>
+<path id="path1_fill" d="M 7.61875 0.0325893L 7.65312 0L 15.2746 7.24732L 13.6759 8.69687L 8.52902 3.87366L 8.52902 24.9897L 6.7433 24.9897L 6.7433 3.84196L 1.5625 8.69687L 0 7.24732L 7.60357 0L 7.6192 0.0325893L 7.61875 0.0325893Z"/>
+</defs>
+</svg>

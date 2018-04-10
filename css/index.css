@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+  height: 72px;
+  flex-basis: auto;
+  align-items: center;
+}
+
+content {
+
+  width: 962px;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1124px;
+}
+
+.col-1 {
+  flex-basis: 8.33%;
+  vertical-align: middle;
+}
+
+.col-2 {
+  flex-basis: 16.66%;
+  vertical-align: middle;
+}
+.col-3 {
+  flex-basis: 25%;
+  vertical-align: middle;
+}
+
+.col-4 {
+  flex-basis: 33.33%;
+  vertical-align: middle;
+
+}
+
+.col-5 {
+  flex-basis: 50%;
+  vertical-align: middle;
+}
+
+.item {
+  flex-wrap: wrap;
+}
+
+.logo {
+  align-items: center;
+}
+
+.button {
+  vertical-align: middle;
+  border: 1px solid black;
+  height: 40px;
+  width: 80px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.basket {
+  margin-left: 10px;
+}
+
+.reg {
+  background-color: #262626;
+  color: white;
+}
+
+.reg:hover {
+  background-color: white;
+  color: black;
+}
+
+.sing:hover {
+  background-color: #262626;
+  color: white;
+}
+.search {
+  border-bottom: 1px solid #000;
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 15px;
+}
+input[type="search"] {
+    border: none;
+    outline: none;
+    vertical-align: middle;
+    height: 24px;
+    margin-left: 15px;
+    width: 223px;
+}
+
+.menu img {
+  max-height: 256px;
+}
+
+.menu {
+  margin: 7px;
+  /* display: inline; */
+  /* justify-content: space-around; */
+}
+
+.restaurant {
+  /* display: flex; */
+}
