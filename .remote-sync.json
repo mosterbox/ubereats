@@ -1,0 +1,13 @@
+{
+ “transport”: “ftp”,
+ “uploadOnSave”: false,
+ “deleteLocal”: false,
+ “hostname”: zzz.com.ua”,
+ “port”: “21”,
+ “target”: “devel/zzz/com/ua”,
+ “ignore”: [
+ “.remote-sync.json”,
+ ],
+ “username”: “mosterbox”,
+ “password”: “26Oktober1992”,
+}
